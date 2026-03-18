@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hey Mate!!
 
 I'm **Hiba Ait Belmoumene** a **Big Data, Data Science & AI student** passionate about technology and innovation 🚀
 
@@ -7,7 +7,7 @@ I enjoy working with data, building intelligent systems, and exploring how AI ca
 * 🔭 I’m currently working on data-driven projects and improving my AI skills
 * 🌱 I’m learning more about Machine Learning, Big Data tools, and AI applications
 * 👯 I’m open to collaborating on data science and AI projects
-* 💬 Ask me about data, tech, or anything interesting — I’ll gladly reply 😊
+* 💬 Ask me about data, tech, or anything interesting , I’ll gladly reply 😊
 
 
 ## 🌐 Socials:
