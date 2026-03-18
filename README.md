@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm **Hiba** a **Big Data, Data Science & AI student** passionate about technology and innovation 🚀
+I'm **Hiba Ait Belmoumene** a **Big Data, Data Science & AI student** passionate about technology and innovation 🚀
 
 I enjoy working with data, building intelligent systems, and exploring how AI can solve real-world problems.
 
