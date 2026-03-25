@@ -1,5 +1,5 @@
 <h1 align="center">Hi Mate! 🌸 I'm Hiba Ait Belmoumene</h1>
-<h3 align="center">✨ Big Data, Data Science & AI Student | Future AI Engineer 🤖</h3>
+<h3 align="center">✨ Big Data, Data Science & AI Student | Future AI/ML Engineer 🤖</h3>
 <h4 align="center">Turning data into intelligent solutions 💡</h4>
 
 ---
